@@ -1,0 +1,86 @@
+- name: Yuncheol Kang(강윤철)
+  photo: 강윤철1.jpg
+  info: Director/Assistant Professor, started Mar 2020
+  email: yckang@ewha.ac.kr
+  number_educ: 1
+  education1: Sequential Decision Making, Business Analytics
+  
+
+- name: Sojeong Kwon(권소정)
+  photo: 권소정.jpg
+  info: Ph.D Student, started Sep 2020
+  email: soho4997@ewhain.net
+  number_educ: 1
+  education1: Deep Reinforcement Learning, Dynamic Pricing, Operations Research
+
+
+- name: Gayoung Kim(김가영)
+  photo: 김가영.jpg
+  info: Ph.D.Student, started Jan 2022
+  email: bunoheb@ewhain.net
+  number_educ: 1
+  education1: Deep Learning, Reinforcement Learning, Recommendation system
+
+
+- name: Julie Maeng(맹주리)
+  photo: 맹주리.jpg
+  info: Master Student, started Jan 2021
+  email: juliemaeng@ewhain.net
+  number_educ: 1
+  education1: Reinforcement Learning, Deep Learning, Machine Learning, Smart Grid
+
+
+- name: Jeongyeon Woo(우정연)
+  photo: 우정연.jpg
+  info: Master Student, started Jan 2021
+  email: wjy3913@ewhain.net
+  number_educ: 1
+  education1: Deep Learning, Machine Learning, Reinforcement Learning, Bioinformatics, Business Analytics
+
+
+- name: Huijin Jo(조희진)
+  photo: 조희진.jpg
+  info: Master Student, started Feb 2021
+  email: huijin.jo9@ewhain.net
+  number_educ: 1
+  education1: Machine Learning, Natural Language Processing, Explainable AI(XAI), Legal Judgement Prediction, HR Analytics
+
+
+- name: Bora Nam(남보라)
+  photo: 남보라.jpg
+  info: Master Student, started Apr 2021
+  email: brnam21@ewhain.net
+  number_educ: 1
+  education1: Neural Machine Translation, Machine Learning, Reinforcement Learning
+
+
+- name: Jiyoon Kim(김지윤)
+  photo: 김지윤.jpg
+  info: Master Student, started Apr 2021
+  email: junelalala@ewhain.net
+  number_educ: 1
+  education1: Deep Learning, Machine Learning, Reinforcement Learning
+
+
+- name: Jing Liu(유정)
+  photo: 유정.jpg
+  info: Master Student, started Jul 2021
+  email: liujing919@ewhain.net
+  number_educ: 1
+  education1: Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision
+
+
+- name: Mihee Lee(이미희)
+  photo: 이미희.jpg
+  info: Master Student, started Dec 2021
+  email: mihee.lee@ewhain.net
+  number_educ: 1
+  education1: Machine Learning, Deep Learning, Recommendation System, Reinforcement Learning
+  
+  
+- name: Hong Jin(김홍)
+  photo: 김홍.jpg
+  info: Master Student, started Feb 2022
+  email: jinhong7887@ewhain.net
+  number_educ: 1
+  education1: Machine Learning, Deep Learning, Computer Vision
